@@ -1,2 +1,2 @@
 # orchestrate-bulk-import
-Bulk Import for Orchestrate based on Go
+For use with [Marvelousdb Sample AppFog Application](//github.com/chrislittle/marvelousdb)
